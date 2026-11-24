@@ -1,0 +1,18 @@
+{
+  "4470555": {
+    "nama_ilmiah": "Coccinella septempunctata",
+    "nama_lokal": "Kumbang Koksi Tujuh Titik",
+    "kategori": "Berguna (Predator hama)",
+    "status_bahaya": "Tidak berbahaya bagi manusia; tidak menyengat, jarang menggigit.",
+    "kegunaan_ekologis": "Predator alami kutu daun dan serangga kecil bertubuh lunak, sehingga membantu mengendalikan hama tanaman secara alami.",
+    "fakta_unik": "Satu individu dewasa dapat memakan puluhan kutu daun per hari. Warna merah cerahnya adalah peringatan bagi pemangsa bahwa ia berasa pahit."
+  },
+  "1341976": {
+    "nama_ilmiah": "Apis mellifera",
+    "nama_lokal": "Lebah Madu Eropa",
+    "kategori": "Berguna (Penyerbuk)",
+    "status_bahaya": "Menyengat jika merasa terancam; berbahaya bagi penderita alergi sengatan lebah.",
+    "kegunaan_ekologis": "Penyerbuk utama banyak tanaman pertanian dan liar, serta penghasil madu, lilin, dan propolis.",
+    "fakta_unik": "Lebah pekerja berkomunikasi lokasi sumber makanan lewat 'tarian goyang' (waggle dance)."
+  }
+}
